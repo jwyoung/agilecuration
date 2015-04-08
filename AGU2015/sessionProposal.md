@@ -18,8 +18,9 @@ Name                  Affiliation                 Email address
 --------------------- --------------------------- ---------------------------------
 Karl Benedict         University of New Mexico    kbene@unm.edu
 
-Convener 2            Some great place            dont@spam.me
-
+Josh Young           University Corporation for   jwyoung@ucar.edu
+                     Atmospherice Research
+                     
 Convener 3            Another great place         dont.even.think@about.it
 
 Convener 4            Better than the rest        move@along.here
